@@ -1,6 +1,5 @@
 该项目为4A项目组开发和维护的同步工具，在此做统一管理
 该项目包括以下模块：
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
 <table>
     <tr>
         <td>项目名称</td>
@@ -25,6 +24,6 @@
     <tr>
         <td>mideaidm-txl</td>
         <td>通讯录工具</td>
-        <td>查询企业通讯录、公共通讯录、个人通讯</td>
+        <td>查询企业通讯录、公共通讯录、个人通讯 "悬停显示"</td>
     </tr>
 </table>
