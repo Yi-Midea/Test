@@ -179,6 +179,7 @@
 	</tr>
 		<tr>
         <td>LDAPGroupToADGroup</td>
+		<td>通过群组去处理LDAP与AD成员不一致工具</td>
         <td>
 			<br>1.根据群组cn查询出LDAP中的成员，查出AD中的成员；
 			<br>2.对比ldap组和AD组的用户，把ldap组有而Ad组没有的用户添加到AD组；
@@ -206,6 +207,7 @@
 	</tr>
 		<tr>
         <td>GERPScheduler</td>
+		<td>禁用启用SRM用户工具</td>
         <td>用户回收到OIM后，将用户推送到SRM（并将SRM系统中员工与用户关联）；禁用启用SRM用户职责等操作的EBS如下：
 			<br>JDERP：EBS Application Instance
 			<<br>OBS：OBSUSERAPP
@@ -213,6 +215,5 @@
 			<<br>GSRM：GSRMUSERAPP
 			<<br>GAPS：GAPSUSERAPP
         </td>
-        <td></td>
     </tr>
 </table>
