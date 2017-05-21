@@ -1,6 +1,6 @@
 该项目为4A项目组开发和维护的同步工具，在此做统一管理
 该项目包括以下模块：
-
+[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
 <table>
     <tr>
         <td>项目名称</td>
