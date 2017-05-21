@@ -1,0 +1,30 @@
+该项目为4A项目组开发和维护的同步工具，在此做统一管理
+该项目包括以下模块：
+
+<table>
+    <tr>
+        <td>项目名称</td>
+        <td>中文名称</td>
+        <td>项目描述</td>
+    </tr>
+    <tr>
+        <td>PrivilegeCleanupTool</td>
+        <td>权限清理工具</td>
+        <td>用于权限清理</td>
+    </tr>
+	<tr>
+        <td>ContactsMySQLSyncTool</td>
+        <td>通讯录MySQL同步工具</td>
+        <td>通讯录同步工具</td>
+    </tr>
+    <tr>
+        <td>WeakPasswdScanTool</td>
+        <td>弱密码扫描工具</td>
+        <td>弱密码扫描工具</td>
+    </tr>
+    <tr>
+        <td>mideaidm-txl</td>
+        <td>通讯录工具</td>
+        <td>查询企业通讯录、公共通讯录、个人通讯</td>
+    </tr>
+</table>
